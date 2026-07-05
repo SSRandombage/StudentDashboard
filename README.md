@@ -1,2 +1,2 @@
 # StudentDashbord
-Power BI dashboard project fora small amount of student performance analysis
+Power BI dashboard project for a small amount of student performance analysis
